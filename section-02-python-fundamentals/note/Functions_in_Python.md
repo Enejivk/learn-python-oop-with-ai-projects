@@ -1,4 +1,4 @@
-# Lecture 6 — Functions in Python
+# Functions in Python
 
 ## 1. What is a Function?
 

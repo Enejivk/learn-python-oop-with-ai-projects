@@ -1,4 +1,4 @@
-# Lecture 9 — File Handling Basics
+# File Handling Basics
 
 ## 1. Why File Handling?
 

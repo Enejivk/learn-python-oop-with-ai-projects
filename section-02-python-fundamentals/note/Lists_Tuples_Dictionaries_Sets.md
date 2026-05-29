@@ -1,4 +1,4 @@
-# Lecture 7 — Lists, Tuples, Dictionaries, and Sets
+# Lists, Tuples, Dictionaries, and Sets
 
 ## 1. Why Do We Need Collections?
 

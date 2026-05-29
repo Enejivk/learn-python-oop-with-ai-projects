@@ -1,4 +1,4 @@
-# Lecture 8 — Loops and Conditional Statements
+# Loops and Conditional Statements
 
 ## 1. Conditional Statements
 

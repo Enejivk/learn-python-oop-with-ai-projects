@@ -1,4 +1,4 @@
-# Lecture 5 — Variables and Data Types
+# Variables and Data Types
 
 ## 1. What is a Variable?
 
